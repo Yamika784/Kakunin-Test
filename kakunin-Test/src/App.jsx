@@ -25,6 +25,8 @@ function App() {
   return (
     <>
     <h1>店舗情報</h1>
+    <h2>my
+    </h2>
 
     <select>
           <option value=""></option>
